@@ -44,17 +44,6 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Internet Vs web ](https://youtu.be/iHa7xD8z6iE?list=PLuD_QmoSQDwRQDd3QtYYarquoQTyBngyY)
-- [CSS3 loading Animation Tutorial in Bangla](https://youtu.be/KP1Q718MXPw?list=PLuD_QmoSQDwSx6eawsKhhDvkU1ribfAHa)
-- [CSS3 hover effect in font awasome icons bangla tutorial](https://youtu.be/HiID64hVaxA?list=PLuD_QmoSQDwSx6eawsKhhDvkU1ribfAHa)
-- [SEO bangla tutorial](https://youtu.be/SA1IVQSS0WQ?list=PLuD_QmoSQDwRQDd3QtYYarquoQTyBngyY)
-- [What is web design |bangla](https://youtu.be/uhsPtV5S7JA?list=PLuD_QmoSQDwRQDd3QtYYarquoQTyBngyY)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -63,9 +52,19 @@
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+➡️ [more blog posts...](https://www.youtube.com/channel/UC2cFv6nmYlmqnpLKmo2_bGw?view_as=subscriber)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.youtube.com/channel/UC2cFv6nmYlmqnpLKmo2_bGw?view_as=subscriber)
+---
+
+
+- [Internet Vs web ](https://youtu.be/iHa7xD8z6iE?list=PLuD_QmoSQDwRQDd3QtYYarquoQTyBngyY)
+- [CSS3 loading Animation Tutorial in Bangla](https://youtu.be/KP1Q718MXPw?list=PLuD_QmoSQDwSx6eawsKhhDvkU1ribfAHa)
+- [CSS3 hover effect in font awasome icons bangla tutorial](https://youtu.be/HiID64hVaxA?list=PLuD_QmoSQDwSx6eawsKhhDvkU1ribfAHa)
+- [SEO bangla tutorial](https://youtu.be/SA1IVQSS0WQ?list=PLuD_QmoSQDwRQDd3QtYYarquoQTyBngyY)
+- [What is web design |bangla](https://youtu.be/uhsPtV5S7JA?list=PLuD_QmoSQDwRQDd3QtYYarquoQTyBngyY)
+➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 

@@ -97,8 +97,8 @@
 [website]: http://israweb.joyit247.com/i
 [youtube]: https://www.youtube.com/channel/UC2cFv6nmYlmqnpLKmo2_bGw?view_as=subscriber
 [linkedin]: www.linkedin.com/in/israfil-hossen
-[Email]: www.linkedin.com/in/israfil-hossen
-[Facebook]: www.linkedin.com/in/israfil-hossen
+[Email]: israfilhossen10750@gmail.com
+[Facebook]: https://www.facebook.com/don.israfil.9
 
 
 

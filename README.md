@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning web programming 🤣
 - 👯 I’m looking to collaborate with other web learner
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to hardworking and awesome,suppper-dupper site create 😜
+- ⚡ Fun fact: I love to hardworking and awesome,suppper-dupper site creation 😜
 
 <br />
 
@@ -94,7 +94,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: http://israweb.joyit247.com/i
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
@@ -107,14 +107,3 @@
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

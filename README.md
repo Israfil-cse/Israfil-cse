@@ -1,14 +1,14 @@
 
-### Hi there, I'm Israfil Hossen - aka [codeSTACKr][website] 👋
+## Hi there, I'm Israfil Hossen 👋
 
 
-## I'm a Web Developer, and Trainer!!
+### I'm a Web Developer, and Trainer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+
+- 🌱 I’m currently learning web programming 🤣
+- 👯 I’m looking to collaborate with other web learner
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to hardworking and awesome,suppper-dupper site create 😜
 
 <br />
 

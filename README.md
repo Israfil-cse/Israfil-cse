@@ -44,11 +44,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Easy VS Code Docker Remote Containers | Dockerize Development Environment Easily with VS Code (2020)](https://www.youtube.com/watch?v=KFyRLxiRKAc)
-- [Build a GOOGLE Clone with Tailwind CSS - How Google was Built in the 90s vs TODAY!](https://www.youtube.com/watch?v=8ETmAEf793g)
-- [6 Amazing Tips to Successfully Freelance in Web Development (2020)](https://www.youtube.com/watch?v=e9UvzZJflqU)
-- [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
-- [NEW GitHub CLI 1.0 Tutorial | FREE Swag! | Hacktoberfest UPDATE | Step-by-Step Guide | Web Developer](https://www.youtube.com/watch?v=Uzcr9YrdODU)
+- [Internet Vs web ](https://youtu.be/iHa7xD8z6iE?list=PLuD_QmoSQDwRQDd3QtYYarquoQTyBngyY)
+- [CSS3 loading Animation Tutorial in Bangla](https://youtu.be/KP1Q718MXPw?list=PLuD_QmoSQDwSx6eawsKhhDvkU1ribfAHa)
+- [CSS3 hover effect in font awasome icons [ bangla tutorial](https://youtu.be/HiID64hVaxA?list=PLuD_QmoSQDwSx6eawsKhhDvkU1ribfAHa)
+- [SEO bangla tutorial](https://youtu.be/SA1IVQSS0WQ?list=PLuD_QmoSQDwRQDd3QtYYarquoQTyBngyY)
+- What is web design |bangla](https://youtu.be/uhsPtV5S7JA?list=PLuD_QmoSQDwRQDd3QtYYarquoQTyBngyY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -65,7 +65,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://www.youtube.com/channel/UC2cFv6nmYlmqnpLKmo2_bGw?view_as=subscriber)
 
 ---
 

@@ -59,8 +59,9 @@
 #####  Technology used :
 React.js, Node.js, Express.js,firebase ,MongoDB, Bootstrap4, css , html
 
-#### [Doctor portal]()
-- A Single page web app with dashboard where people can pick the date and time and fix an  appointment. A doctor can review his appointments and prescribe medicine to a Patient from his dashboard.
+#### [Doctor portal](https://doctors-portal-a45b5.web.app/)
+- A single-page web app with a dashboard where people can click the appointment buttonand pick the date and time and fix an appointment. A doctor can review his   appointments and prescribe medicine to a Patient from his dashboard.
+
 
 ##### Technology used : 
 React.js, Node.js, Express.js,firebase , MongoDB, Bootstrap4, css , html

@@ -22,9 +22,9 @@
 <br />
 <br />
 
-### my resume/cv:
+### 📑 my resume/cv:
 
-#### [resume pdf and doc](https://drive.google.com/drive/folders/1hmaj1whvUlIptUZOKQt0a7ut6eBoTqgG?usp=sharing)
+##### 🖨 [resume pdf and doc](https://drive.google.com/drive/folders/1hmaj1whvUlIptUZOKQt0a7ut6eBoTqgG?usp=sharing)
 
 <br />
 <br />

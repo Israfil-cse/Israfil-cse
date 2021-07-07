@@ -24,7 +24,7 @@
 
 ### 📑 my resume/cv:
 
-##### 🖨 [resume pdf and doc](https://drive.google.com/drive/folders/1hmaj1whvUlIptUZOKQt0a7ut6eBoTqgG?usp=sharing)
+##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1DuFvt_fzfQNRVn5r79LKbQgAujRn6z0O/view?usp=sharing)
 
 <br />
 <br />
